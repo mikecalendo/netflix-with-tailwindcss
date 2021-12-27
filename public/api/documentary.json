@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "data": [
+    {
+      "type": "documentary",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABag9mB0kKpSc5cXWHDdR2IJpRNmlQ6_Bw4qIJ_ccqHQsBp_E03_FZZN_FMfeM__e9pTNRlmoXz0MYcSTLIw77kWGKo4B3aEx88iY49Al9re7cmifRFyG0MhBUKXHzw.jpg?r=612",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/80990130",
+      "date": "December 6, 2021"
+    },
+    {
+      "type": "documentary",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABY-tpU4h6p7Qk0hFUxeNISn-eXvE3I7MLe3lDsFccW5sjba006e-R0Na5230eklLHYZMpvEzmRDItFQWzB-Lnk6Raq9J_n80ZDhDq1bU4nL4UKjqOeqpm4fruZhIOw.jpg?r=5fb",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/81464793",
+      "date": "December 10, 2021"
+    },
+    {
+      "type": "documentary",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABRE0UOIEtYpO2YIJgxjuWJuTakAg3XOJoQe9tGsCnkvcdgyqdBsBho4h_VIWG5j1YlLA_8jeI_quZSwVgxJ2s5bBg3ediSeZep3dv1TjkOqn1Z2j54P-JLuGOG9QrQ.jpg?r=43b",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/81276049",
+      "date": "December 16, 2021"
+    },
+    {
+      "type": "documentary",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABYNgcJavaWNo-3axDnz0iruPtSyhPa7xj77Qlb1iAe3bLV51AajHlcT00IpWUSAVAgYUR7mrYdDSK526I0dIbjovkLWdT7Xw4TnhQvczQJi6A9qtu2E1hOgf78RChA.jpg?r=1e4",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/81405883",
+      "date": "December 29, 2021"
+    }
+  ]
+}

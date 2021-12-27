@@ -1,0 +1,125 @@
+{
+  "result": "success",
+  "data": [
+    {
+      "type": "series",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABX5GUahkIuv3lAlKVzkyagNMa5IPBPGYMKpHHdEtOQEt0D2Fk1nBFQMo1QbbXPPNT7NYhQaFrHXezWIlnReHU9z9aFuuohKtU_6c7GgZtR_q9kUCbGO_Ts1DxQ7FpQ.jpg?r=33e",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/80179831",
+      "date": "December 1, 2021"
+    },
+    {
+      "type": "series",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABQojn06X6wIzPurENiT3U7m9e927tYbd1YDmQ_7VpkGmpVarsNimWLHwn0KF2U-e423DoxknbEbChJ3rra4Yffu7qfL2csyb2E-XLfD_sAdi8CKsEnbz4r4qSglH4Q.jpg?r=d44",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/80104198",
+      "date": "December 1, 2021"
+    },
+    {
+      "type": "series",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABYpQL7fksay-PTREkFMxxz9Z3U5MswkFASibqXh5i-VPj8k105RZANvxxVEENVTl8yQHe5s8qP0iJ-YvFZVYVHbf_tRuXi8hVhNDT4OXxgnSZZ-LbGYbld4fUyLMBA.jpg?r=924",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/81013505",
+      "date": "December 3, 2021"
+    },
+    {
+      "type": "series",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABYglA5BtIdYrrNkCYLKixx_aS1WEnoSgIOiEnCSwCo3ESlyAG9zggw0U2ufgeL6lPUbbN2KhFBomTVMkbSsMyNoMhnAVf4DO-dNsbG1CLQHyyBSG3dqLAVnoZFuE9A.jpg?r=cad",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/81405046",
+      "date": "December 3, 2021"
+    },
+    {
+      "type": "series",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABag9mB0kKpSc5cXWHDdR2IJpRNmlQ6_Bw4qIJ_ccqHQsBp_E03_FZZN_FMfeM__e9pTNRlmoXz0MYcSTLIw77kWGKo4B3aEx88iY49Al9re7cmifRFyG0MhBUKXHzw.jpg?r=612",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/80990130",
+      "date": "December 6, 2021"
+    },
+    {
+      "type": "series",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABR35YvATAxeqKg6ziWW5b6c-_30pkJAS4oXHaaGqzpus-fTIMCEO4kpjwCAa7VQdmvo32s3N3-5N2YidsVKaAPi-YTvDr7utiyJUgj0IB_ul-yopi7n_AYpvgm22Jg.jpg?r=502",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/81294417",
+      "date": "December 10, 2021"
+    },
+    {
+      "type": "series",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABbkhP3QKovFNyrlaquA_ULDMJPfIN2A4QZJVBX-jlThE5-H7Den8WnbzKBFVNTyDcxw1-GZ49mzm8JPBo0buaJVZyLxApqlnheeRBH7P4Zbh1leBn0sc9-eWQ28WzQ.jpg?r=fe6",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/81103133",
+      "date": "December 10, 2021"
+    },
+    {
+      "type": "series",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABe3AOHRbS6C2tRutIpAKG6I-fmAa6pqeOx0MHyh88fFN72nSoPzumhoAsi6HXZ66UZylGGraoMSXnoNdWbg_20fjair-4N151fsoqdonsqTM2jmjTO8QWVCcJSuI-w.jpg?r=d3e",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/81226180",
+      "date": "December 10, 2021"
+    },
+    {
+      "type": "series",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABdReeEzRtA28uKh4TBCdgUcyXr-gUZV56Z7QwE-fqM1Tpl74sPGjnoqfs5Rx2rqqxWJ5FV66uoH6dCAwfybyvv6xmovPA-80JGJUpqlt0XL-JSJif4D5xzZaXlDaeg.jpg?r=f7a",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/81441828",
+      "date": "December 10, 2021"
+    },
+    {
+      "type": "series",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABY-tpU4h6p7Qk0hFUxeNISn-eXvE3I7MLe3lDsFccW5sjba006e-R0Na5230eklLHYZMpvEzmRDItFQWzB-Lnk6Raq9J_n80ZDhDq1bU4nL4UKjqOeqpm4fruZhIOw.jpg?r=5fb",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/81464793",
+      "date": "December 10, 2021"
+    },
+    {
+      "type": "series",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABRX2tGudSNi13fW2INtAPfFBKkMCekbR80ISxVjrO9FLekDBs1QlAcRZP7UTT01H2PA4sPmt50UG-UtWdi_diqS7YvWVuGOHXgGOHmdgS4p3PR4yqN60A5soVBjO2g.jpg?r=5f8",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/81443720",
+      "date": "December 14, 2021"
+    },
+    {
+      "type": "series",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABXo3EvLo6lgvcr2z96GiYWtMst7QwFNbqMD5Lb_CA_TKT7WDtVRbJz9a3fD_agemXakRwYlwDX8Lsgm6GvJXKVoOHlMupPR3X2cbAS5jVF-ARDGYgqoPZ7FixROiNw.jpg?r=1a5",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/81330745",
+      "date": "December 15, 2021"
+    },
+    {
+      "type": "series",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABZVpljr3RWUr-ii82Th956F_vyfAeowoONntEPEdVDQk_gbgMD05NDrNWfbm3XIA7fQjsJCMblnYkZTD5RdSFQsiwu7xYRT23K49-RukZniuZ2EowTLcpHVcbDmoZg.jpg?r=1a5",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/80189685",
+      "date": "December 17, 2021"
+    },
+    {
+      "type": "series",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABb6CtfMyci8f0poL5MC63vGb4IC7utvs5EgdmIBRyH3rghvdhU3E0Z1-Jy03lSMNzpqg5EqbaktqfSBMzByRvXKxWEypsykI-Wf80daLVXe523w3M7_LNNY3kliGzQ.jpg?r=795",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/81037371",
+      "date": "December 22, 2021"
+    },
+    {
+      "type": "series",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABcbe1-UWTj1G_SyrCpVsdwzTB8F55utOEfEGQhZseM_OIMswyJ2r_-cijS906gIbtgeUG-t3T6jvT8G99rfY4N1bepIVTrKqoj5sLpNpxUtZWc6Ccugk2weXWmz-MA.jpg?r=64d",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/81114161",
+      "date": "December 28, 2021"
+    },
+    {
+      "type": "series",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABYNgcJavaWNo-3axDnz0iruPtSyhPa7xj77Qlb1iAe3bLV51AajHlcT00IpWUSAVAgYUR7mrYdDSK526I0dIbjovkLWdT7Xw4TnhQvczQJi6A9qtu2E1hOgf78RChA.jpg?r=1e4",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/81405883",
+      "date": "December 29, 2021"
+    },
+    {
+      "type": "series",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABQ5MB72UfFUH2z1beWchXGYpm6JvJqfh0xsAKLXsluYUjZy0Ja2yXhjyqwN4gLs5vmvb-77eEp4iXiVIRsoaOl29NrI6-Eo9HVGJm8dlLwH99k9KUU3mOcaAyChWJg.jpg?r=358",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/81214609",
+      "date": "December 29, 2021"
+    },
+    {
+      "type": "series",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABYwGnsOZ1hD2PmYLLiqOEpjwOZ8-6D_U6zASEKZstIJxhn9lM9C2tqnrMWzye1iZ5-IhFK0FdPPYHavrnIdlUfTyniu_ArnTKZ5Q1ViBmMNKFxJ_MtK7_VrRn8FmaQ.jpg?r=c74",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/81180561",
+      "date": "December 30, 2021"
+    },
+    {
+      "type": "series",
+      "imageURL": "https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABX16O2Y9KHLhzWh3SaUK7RSDfKz7-iyG9m93ZJKTDJ197I6RKgZBbPeXEGk-6j8q7IxA1SzCALFCUxl0iAESH31tV7DFXQeHCs55OqjaL0SSG8F7y-ZaR6z0VrzJcg.jpg?r=89f",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/81289581",
+      "date": "December 31, 2021"
+    },
+    {
+      "type": "series",
+      "imageURL": "https://d2ajy4iry6zk4j.cloudfront.net/pubvat/80160037/thumbnail/small/f3v48le86",
+      "detailURL": "https://media.netflix.com/en/only-on-netflix/80160037",
+      "date": "December 31, 2021"
+    }
+  ]
+}

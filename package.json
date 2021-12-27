@@ -1,0 +1,42 @@
+{
+  "name": "netflixprettymuch",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "@aws-amplify/ui-react": "2.1.5",
+    "@emotion/react": "11.7.1",
+    "@types/node": "17.0.5",
+    "@types/react": "16.14.21",
+    "aws-amplify": "4.3.11",
+    "next": "latest",
+    "normalize.css": "8.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "typescript": "4.5.2",
+    "@badrap/bar-of-progress": "^0.1.2",
+    "@heroicons/react": "^1.0.3",
+    "@stripe/react-stripe-js": "^1.6.0",
+    "@stripe/stripe-js": "^1.21.2",
+    "@tailwindcss/forms": "^0.3.4",
+    "aos": "^3.0.0-beta.6",
+    "sass": "^1.42.1",
+    "tailwind-scrollbar-hide": "^1.0.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "eslint": "8.4.1",
+    "eslint-config-next": "12.0.7",
+    "postcss": "^8.4.5",
+    "postcss-preset-env": "^7.0.1",
+    "tailwindcss": "^3.0.2"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": "This is an example app created by using the latest Amplify UI.",
+  "devDependencies": {}
+}
